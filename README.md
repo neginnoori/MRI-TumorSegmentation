@@ -1,5 +1,4 @@
-# Brain Tumor Segmentation using Graph Cut and Genetic Algorithm
-
+# Brain Tumor Segmentation using Graph Cut 
 ## Overview
 
 This project focuses on the segmentation of brain tumors from MRI images using advanced machine learning techniques, specifically the Graph Cut algorithm combined with a Genetic Algorithm for optimization. The primary objective is to accurately segment brain tumors in MRI scans, which is crucial for treatment planning and diagnosis in medical applications.
